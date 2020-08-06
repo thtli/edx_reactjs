@@ -9,4 +9,4 @@ codepen: https://codepen.io/thtli/pen/WNweypo
 ## module2_lab
 Module 2 | State, Life Cycle, and Event Handlers 
 The assignment is to build the provided trivia application.  
-codepen:   
+codepen: https://codepen.io/thtli/pen/ExKxZLY     
